@@ -1,5 +1,5 @@
-# Covid-Tracker-MM
-Covid-Tracker In Burmese Version With REACT-JS Project
+# Covid-Tracker In Burmese Version With REACT-JS Project
+
 
 This project was bootstrapped with Create React App.
 
